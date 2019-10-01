@@ -1,0 +1,3 @@
+create a calculator application in python
+use class, method, exception handling, logging etc
+create dockerfile and build image and container out of it
